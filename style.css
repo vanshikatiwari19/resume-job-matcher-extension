@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    padding: 10px;
+    width: 260px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 10px;
+    font-size: 14px;
+}

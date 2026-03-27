@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Resume Job Matcher",
+  "version": "1.0",
+  "description": "Upload resume and get job suggestions with skill gap analysis",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
